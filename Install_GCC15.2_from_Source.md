@@ -43,6 +43,6 @@ make install
 
 ##set path
 ```bash
-echo 'export PATH=/usr/local/gcc-15.2/bin:$PATH' >> ~/.bashrc
+echo 'export PATH=/usr/local/gcc-15.2.0/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
