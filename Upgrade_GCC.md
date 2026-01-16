@@ -13,7 +13,7 @@ gpgcheck=0
 enabled=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-SIG-SCLo
 ```
-###　1.２修改CentOS-SCLo-scl-rh.repo
+### 1.2修改CentOS-SCLo-scl-rh.repo
 ```bash
 vi /etc/yum.repos.d/CentOS-SCLo-scl-rh.repo
 ```
